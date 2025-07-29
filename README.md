@@ -66,14 +66,6 @@ To defend against phishing:
 **Dhruv Patel**  
 [LinkedIn Profile](https://www.linkedin.com/in/dhruvpatel-infosec)
 
----
-
-## 📄 License
-
-Licensed under the [MIT License](LICENSE).  
-Use strictly for ethical, academic, or organizational training purposes.
-
----
 
 ---
 
